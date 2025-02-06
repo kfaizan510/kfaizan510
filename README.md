@@ -60,8 +60,4 @@ Faizan Khan</a></h1>
 - [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
 <!-- BLOG-POST-LIST:END -->
 
----
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
