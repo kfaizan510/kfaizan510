@@ -4,7 +4,7 @@ Faizan Khan</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kfaizan510&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/faizan-khan-0b04a6114/" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="kfaizan510" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/faizan-khan-0b04a6114/" target="blank"><img src="https://img.shields.io/twitter/follow/kfaizan510?logo=linkedin&style=for-the-badge" alt="kfaizan510" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
